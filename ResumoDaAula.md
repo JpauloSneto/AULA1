@@ -9,3 +9,8 @@
 - Noções Basicas do que o GitHub seria capaz
 
 - Criação de um repositorio com ajuda para Futuros estudos "https://github.com/JpauloSneto/guia-definitivo-de-markdown"
+
+- Uso de Diferentes tipos de Fontes como:
+  *italico*
+  **Negrito**
+  ***Italico e Negrito***
