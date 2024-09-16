@@ -11,6 +11,6 @@
 - Criação de um repositorio com ajuda para Futuros estudos "https://github.com/JpauloSneto/guia-definitivo-de-markdown"
 
 - Uso de Diferentes tipos de Fontes como:
-  *italico*
-  **Negrito**
+  *italico*,
+  **Negrito** e 
   ***Italico e Negrito***
